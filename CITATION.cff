@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or the reference tables, please cite it as below, and also cite the MISATO dataset."
+title: "misato-pose-retention: reference distributions for ligand pose retention in molecular dynamics"
+authors:
+  - family-names: Tiwari
+    given-names: Harshita
+license: MIT
+repository-code: "https://github.com/harshuharshu/misato-pose-retention"
+keywords:
+  - molecular dynamics
+  - protein-ligand binding
+  - pose stability
+  - RMSD
+  - benchmark
+  - quality control
+  - MISATO
+references:
+  - type: article
+    title: "MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery"
+    authors:
+      - family-names: Siebenmorgen
+        given-names: Till
+    journal: "Nature Computational Science"
+    volume: 4
+    start: 367
+    end: 378
+    year: 2024
+    doi: "10.1038/s43588-024-00627-2"

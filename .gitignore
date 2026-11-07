@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+numbers.json
+per_complex.csv
+QM.hdf5
+misato_full_state.json
+extraction.log
+extraction.pid
+ligand_counts.csv
+*.tmp
+*.tmp.npz
